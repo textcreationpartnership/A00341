@@ -36,11 +36,28 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The comparation of a vyrgin and a martyrVirginis et martyris comparatio. EnglishErasmus, Desiderius,
+
+1. ¶The preface.
+¶To the ryght worshypfull Master Iohn
+Ramsay, lorde priour of Merton, Thomas
+Paynell, chanon of Merton
+sendeth gretynge.
+
 #####Body#####
-The comparation of a vyrgin and a martyrVirginis et martyris comparatio. EnglishErasmus, Desiderius,
+
+1. The compar. of a Vir. and Mar.
+ERASMVS ROTERO. TO
+the venerable colledge of vyrgins Machabeticas
+at Coleyne, sendeth gretynge
+in Christ Iesu, the sonne
+a vyrgin, and Crowne
+of all vyrgyns.
+
 #####Back#####
-The comparation of a vyrgin and a martyrVirginis et martyris comparatio. EnglishErasmus, Desiderius,
+LON. DINI IN AEDIBVS
+THOMAE BERTHELETI
+REGII
+IMPRESSORIS.CVM PRIVILEGIO.
 **Types of content**
 
   * There are 6 **verse** lines!
